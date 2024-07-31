@@ -1,2 +1,3 @@
+"I just started learning C++ using DSA, and there are some codes that are very important from a beginner's point of view. With the help of these programs, we can enhance our coding skills and improve logical building. 
 
-# learnigc-
+Understanding basic concepts like loops, conditionals, and functions in C++ is crucial. Additionally, learning data structures such as arrays, linked lists, stacks, and queues will provide a strong foundation. Practice implementing algorithms like sorting and searching to improve problem-solving skills. Building projects and solving coding challenges will also help in applying theoretical knowledge to real-world scenarios."
